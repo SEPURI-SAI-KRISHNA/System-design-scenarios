@@ -19,6 +19,16 @@ A growing set of **real-world system design scenarios** — each worked through 
 
 Great for interview prep and for sharpening real-world design intuition.
 
+## 🤝 Contributing
+
+Spotted an error or want to suggest a new scenario?
+
+- **Content errors / typos** — open a [bug report](https://github.com/SEPURI-SAI-KRISHNA/System-design-scenarios/issues/new?template=bug_report.md)
+- **New scenario ideas** — open a [scenario request](https://github.com/SEPURI-SAI-KRISHNA/System-design-scenarios/issues/new?template=feature_request.md)
+- **Pull requests** are welcome — please follow the PR template and match the existing scenario structure
+
+Please read the [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
 ---
 
 <sub>📂 Part of my engineering notes — explore more at **[sepuri-sai-krishna.pages.dev](https://sepuri-sai-krishna.pages.dev)** · by [Sepuri Sai Krishna](https://github.com/SEPURI-SAI-KRISHNA)</sub>
